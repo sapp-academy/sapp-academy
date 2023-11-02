@@ -1,7 +1,6 @@
 # Hi there 👋, SAPP Academy here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://sapp.edu.vn/uploads/pictures/63bfe7673b4793436b52d6ee/content_fix-1-mang-luoi-doi-tac.jpg" />
+<img alt="Unicorn" src="https://lh5.googleusercontent.com/fh5HwJGIvfMBh1xT8-BUcOlwppZ05uPi1xNRMsLc_FI3KDmTokfuGUy-rfZxhQ43cuJVZGCIMUDik4szSzfFPrz1eaOdMd6Entx6OS4_WwSzTCGZDmMST4T4UzyKXZgi0ZyRZOmka4WEFkvunX-o4eyZrqzIfrAeHDVkP7TyG_rzoB_ly_S2Hc5v5FDk2g" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
